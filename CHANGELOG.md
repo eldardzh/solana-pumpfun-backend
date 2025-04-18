@@ -9,3 +9,4 @@ This log tracks architectural and documentation refinements.
 - `2025-04-16` — capabilities — clarify wording
 - `2025-04-17` — expand 'My Role' section
 - `2025-04-18` — improve mermaid diagram
+- `2025-04-18` — refine engineering invariants
