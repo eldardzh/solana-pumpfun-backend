@@ -11,3 +11,4 @@ This log tracks architectural and documentation refinements.
 - `2025-04-18` — improve mermaid diagram
 - `2025-04-18` — refine engineering invariants
 - `2025-04-21` — rephrase capabilities
+- `2025-04-22` — production status update
