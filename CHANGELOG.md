@@ -13,3 +13,4 @@ This log tracks architectural and documentation refinements.
 - `2025-04-21` — rephrase capabilities
 - `2025-04-22` — production status update
 - `2025-04-22` — surface key invariants
+- `2025-05-01` — more precise stack list
