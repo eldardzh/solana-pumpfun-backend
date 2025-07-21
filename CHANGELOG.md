@@ -15,3 +15,4 @@ This log tracks architectural and documentation refinements.
 - `2025-04-22` — surface key invariants
 - `2025-05-01` — more precise stack list
 - `2025-07-19` — scope clarification
+- `2025-07-21` — link external references
