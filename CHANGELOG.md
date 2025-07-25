@@ -18,3 +18,4 @@ This log tracks architectural and documentation refinements.
 - `2025-07-21` — link external references
 - `2025-07-21` — rephrase TL;DR
 - `2025-07-24` — cross-link related repositories
+- `2025-07-25` — ADR — chain-agnostic boundary
