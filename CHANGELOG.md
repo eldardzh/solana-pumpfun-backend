@@ -20,3 +20,4 @@ This log tracks architectural and documentation refinements.
 - `2025-07-24` — cross-link related repositories
 - `2025-07-25` — ADR — chain-agnostic boundary
 - `2025-07-29` — heading hierarchy
+- `2025-07-29` — production status update
