@@ -22,3 +22,4 @@ This log tracks architectural and documentation refinements.
 - `2025-07-29` — heading hierarchy
 - `2025-07-29` — production status update
 - `2025-09-09` — clarify component responsibilities
+- `2025-09-19` — ADR — reorg-safe projection
