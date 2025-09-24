@@ -25,3 +25,4 @@ This log tracks architectural and documentation refinements.
 - `2025-09-19` — ADR — reorg-safe projection
 - `2025-09-24` — contact block tidy
 - `2025-09-24` — rephrase capabilities
+- `2025-09-24` — production status update
