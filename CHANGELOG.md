@@ -27,3 +27,4 @@ This log tracks architectural and documentation refinements.
 - `2025-09-24` — rephrase capabilities
 - `2025-09-24` — production status update
 - `2025-09-25` — heading hierarchy
+- `2025-09-25` — production status update
