@@ -30,3 +30,4 @@ This log tracks architectural and documentation refinements.
 - `2025-09-25` — production status update
 - `2025-09-27` — clarify component responsibilities
 - `2025-09-27` — badges + status
+- `2025-09-28` — ADR — idempotent execution
