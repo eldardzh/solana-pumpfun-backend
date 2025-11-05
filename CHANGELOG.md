@@ -32,3 +32,4 @@ This log tracks architectural and documentation refinements.
 - `2025-09-27` — badges + status
 - `2025-09-28` — ADR — idempotent execution
 - `2025-11-01` — expand 'My Role' section
+- `2025-11-05` — more precise stack list
