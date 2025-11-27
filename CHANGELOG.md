@@ -35,3 +35,4 @@ This log tracks architectural and documentation refinements.
 - `2025-11-05` — more precise stack list
 - `2025-11-05` — clarify component responsibilities
 - `2025-11-07` — surface key invariants
+- `2025-11-27` — tighten architecture overview
