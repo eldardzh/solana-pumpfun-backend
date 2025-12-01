@@ -37,3 +37,4 @@ This log tracks architectural and documentation refinements.
 - `2025-11-07` — surface key invariants
 - `2025-11-27` — tighten architecture overview
 - `2025-11-30` — capabilities — clarify wording
+- `2025-12-01` — link external references
