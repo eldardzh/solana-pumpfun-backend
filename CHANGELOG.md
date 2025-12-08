@@ -40,3 +40,4 @@ This log tracks architectural and documentation refinements.
 - `2025-12-01` — link external references
 - `2025-12-01` — terminology cleanup
 - `2025-12-08` — clarify component responsibilities
+- `2025-12-08` — more precise stack list
