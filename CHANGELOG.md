@@ -44,3 +44,4 @@ This log tracks architectural and documentation refinements.
 - `2025-12-09` — ADR — risk layer veto authority
 - `2025-12-09` — link external references
 - `2025-12-10` — ADR — queue-backed mutations
+- `2025-12-11` — production status update
