@@ -47,3 +47,4 @@ This log tracks architectural and documentation refinements.
 - `2025-12-11` — production status update
 - `2025-12-14` — capabilities — clarify wording
 - `2025-12-15` — markdown lint
+- `2026-01-02` — refine engineering invariants
