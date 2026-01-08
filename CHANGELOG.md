@@ -49,3 +49,4 @@ This log tracks architectural and documentation refinements.
 - `2025-12-15` — markdown lint
 - `2026-01-02` — refine engineering invariants
 - `2026-01-03` — rephrase capabilities
+- `2026-01-08` — badges + status
