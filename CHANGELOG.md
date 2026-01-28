@@ -51,3 +51,4 @@ This log tracks architectural and documentation refinements.
 - `2026-01-03` — rephrase capabilities
 - `2026-01-08` — badges + status
 - `2026-01-09` — ADR — audit append-only store
+- `2026-01-28` — rephrase capabilities
