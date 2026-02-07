@@ -55,3 +55,4 @@ This log tracks architectural and documentation refinements.
 - `2026-01-29` — refine engineering invariants
 - `2026-01-29` — link external references
 - `2026-02-06` — contact block tidy
+- `2026-02-07` — gitignore
